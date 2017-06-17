@@ -15,6 +15,9 @@ public class CityEntity extends RealmObject {
     private String imageUrl;
     private String lastUpdated;
 
+    public CityEntity() {
+    }
+
     public CityEntity(int id, String name, String imageUrl, String lastUpdated) {
         this.id = id;
         this.name = name;
