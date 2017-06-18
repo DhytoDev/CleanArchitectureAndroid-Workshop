@@ -1,6 +1,6 @@
 package com.izadalab.cleanarchitecturetraining.data.net;
 
-/**
+ /**
  * Created by izadalab on 6/17/17.
  */
 
